@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.discount{
+    background: crimson;
+    padding: 8px;
+    margin: 0 auto;
+    width: 500px;
+}
